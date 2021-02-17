@@ -4,7 +4,9 @@
 <code><img height="20" src="https://e7.pngegg.com/pngimages/785/145/png-clipart-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo-thumbnail.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-- 🔭 I’m currently learning MERN Stack Development and Participating in CRIO.
+
+
+- 🔭 I’m currently learning MERN Stack Development and Participating in CRIO WOC.
 - 💻 Open Source contributor.
 - 💬 Ask me about Android, Mobile, Web, Open Source.
 - ⚡ Past work and experience: GSSoC Contributor 2020. FOSSASIA Contributor
@@ -16,15 +18,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=991rajat&show_icons=true&theme=dracula&line_height=27" alt="Rajat's github stats"/>
 </a>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
