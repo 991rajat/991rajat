@@ -13,8 +13,9 @@
 - 📫 How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/991rajat/)
-
+<!--
 <a href="https://github.com/991rajat">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=991rajat&show_icons=true&theme=dracula&line_height=27" alt="Rajat's github stats"/>
 </a>
+
 
