@@ -1,9 +1,10 @@
 ### Hello there 👋, Rajat here 
 ###### Paving my way towards Software Developement.
+<!--
 <code><img height="20" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
 <code><img height="20" src="https://e7.pngegg.com/pngimages/785/145/png-clipart-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo-thumbnail.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-
+-->
 
 
 - 🔭 I’m currently learning MERN Stack Development and Participating in CRIO WOC.
