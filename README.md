@@ -7,10 +7,10 @@
 -->
 
 
-- 🔭 I’m currently learning MERN Stack Development and Participating in CRIO WOC.
+- 🔭 I’m currently learning MERN Stack Development..
 - 💻 Open Source contributor.
 - 💬 Ask me about Android, Mobile, Web, Open Source.
-- ⚡ Past work and experience: GSSoC Contributor 2020. FOSSASIA Contributor
+- ⚡ Past work and experience: GSSoC Contributor 2020. FOSSASIA Contributor, CRIO WOC 21
 - 📫 How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/991rajat/)
