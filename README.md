@@ -7,9 +7,9 @@
 -->
 
 
-- 🔭 I’m currently learning MERN Stack Development..
+- 🔭 I’m currently working as SDE 2.
 - 💻 Open Source contributor.
-- 💬 Ask me about Android, Mobile, Web, Open Source.
+- 💬 Ask me about Java, Android, Mobile, Web, Open Source.
 - ⚡ Past work and experience: GSSoC Contributor 2020. FOSSASIA Contributor, CRIO WOC 21
 - 📫 How to reach me:
 
